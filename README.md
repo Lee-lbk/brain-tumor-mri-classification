@@ -21,9 +21,3 @@ The model was tested on a separate dataset of 1,600 images (400 per class) to en
   - Achieved High AUC for No Tumor (0.940) and Pituitary (0.946).
   - Identified classification challenges between Glioma and Meningioma, reflecting real-world clinical difficulty.
 - **Visuals:** 
-*(Add your confusion matrix or ROC curve screenshot here. Example: `![Confusion Matrix](confusion_matrix.png)`)*
-
-##  How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/brain-tumor-mri-classification.git](https://github.com/yourusername/brain-tumor-mri-classification.git)
